@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, penetration testing, crypto currency and freedom!
 - 🌱 I’m currently learning new programming languages and new opportunities for profit! 
 - 💞️ I’m looking to collaborate on writing security testing tools
-- 📫 How to reach me abex@wright-secure.com
+- 📫 How to reach me alex[at]wright-secure[dot]com
 - 😄 Pronouns: He/Him
 
 <!---
